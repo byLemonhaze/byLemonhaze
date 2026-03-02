@@ -1,4 +1,4 @@
-# Frédérick St-Louis — Lemonhaze
+# Lemonhaze
 
 Artist & builder working at the intersection of Bitcoin, generative systems, and interface design.
 
