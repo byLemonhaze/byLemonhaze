@@ -1,8 +1,8 @@
 # Lemonhaze
 
-Artist & builder working at the intersection of Bitcoin, generative systems, and interface design.
+Artist & AI-Native builder working at the intersection of finen art, Bitcoin, generative systems, and interface design.
 
-$500K+ in cumulative art sales. Works inscribed on Bitcoin. Sotheby's Contemporary Discoveries 2025.
+Works inscribed on Bitcoin. Sotheby's Contemporary Discoveries 2025.
 
 ---
 
