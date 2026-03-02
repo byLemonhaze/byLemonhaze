@@ -1,6 +1,6 @@
 # Lemonhaze
 
-Artist & AI-Native builder working at the intersection of finen art, Bitcoin, generative systems, and interface design.
+Artist & AI-Native builder working at the intersection of fine art, Bitcoin, generative systems, and interface design.
 
 Works inscribed on Bitcoin. Sotheby's Contemporary Discoveries 2025.
 
