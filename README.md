@@ -6,8 +6,6 @@ I build experimental web products and digital art systems that combine narrative
 
 My work sits at the AI-native layer of development. I use LLMs as a core part of my technical process, not as a creative shortcut, but as a medium of leverage. I prototype fast, own output end-to-end, and treat experimentation as a serious discipline.
 
-I'm drawn to environments where creative ambition, emerging technology, and real execution intersect, especially where things are still being defined.
-
 ---
 
 ### Selected Work
