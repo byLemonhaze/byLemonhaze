@@ -4,8 +4,6 @@ Artist | Creative Technologist | AI-Native Builder & Designer
 
 I build experimental web products and digital art systems that combine narrative, design, and code. My work focuses on creating environments where story, structure, and technology evolve together.
 
-Over the last three years I have generated $500,000+ in cumulative art sales across independent releases and secondary markets since 2023, with 100+ individual collectors as Lemonhaze. My work has appeared in Sotheby's Contemporary Discoveries Auction in New York, and I sold out BEST BEFORE, a conceptual performance art project. Beyond my fine art practice, I founded CATALOGUE, a directory for digital artists and galleries, and built my Paint Engine Series, a fully deterministic generative tool inscribed permanently on Bitcoin.
-
 My work sits at the AI-native layer of development. I use LLMs as a core part of my technical process, not as a creative shortcut, but as a medium of leverage. I prototype fast, own output end-to-end, and treat experimentation as a serious discipline.
 
 I'm drawn to environments where creative ambition, emerging technology, and real execution intersect, especially where things are still being defined.
